@@ -1,0 +1,143 @@
+body {
+	background-color: lightblue;
+	font-family: Times New Roman;
+}
+
+p {
+	font-size: 16px;
+}
+
+th, td {
+	text-align: center; 
+	border: 1px #DDD solid; 
+	padding: 5px;
+}
+
+thead {
+	text-align: center;
+}
+
+.selectable {
+	cursor: pointer;
+}
+
+tr.selected {
+	background-color: lightgreen;
+}
+
+#route {
+	padding-top: 50px;
+}
+
+#routeRet {
+	padding-top: 50px;
+}
+
+#map {
+	padding-bottom: -15px;
+}
+
+#toform {
+	padding-bottom: 30px;
+}
+
+.title {
+	background-color: #FFFDD0;
+	margin-top: -25px;
+	font-family: Times New Roman
+}
+
+.fluff {
+	padding-top: 25px;
+	font-family: Times New Roman;
+}
+
+.fluff2 {
+	font-family: Times New Roman;
+}
+
+#cal {
+	padding-top: 25px;
+}
+
+.button {
+  	background-color: #FFFDD0;
+  	border: solid;
+  	color: black;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+  	padding: 10px 24px;
+}
+
+#next {
+  	background-color: #FFFDD0;
+  	border: solid;
+  	color: black;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+  	padding: 10px 24px;
+	margin-bottom: 25px;
+  }
+
+#row0 {
+      font-family: Times New Roman;
+      border-style: solid hidden solid hidden;
+}
+
+#row4 {
+	padding-bottom: 80px;
+}
+
+.touch_up {
+	margin-top: -5px;
+	padding-top: 15px;
+	font-size: 16px;
+	border-style: solid hidden solid hidden;
+	margin-bottom: -15px;
+}
+
+#test {
+	font-size: 16px;
+	font-family: Times New Roman;
+}
+
+#test2 {
+	font-size: 16px;
+	font-family: Times New Roman;
+}
+
+.bordered {
+	border-style: groove;
+}
+
+#elev {
+	font-family: Times New Roman;
+}
+
+#elevRet {
+	font-family: Times New Roman;
+}
+
+#end {
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+
+#end2 {
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+
+#table {
+	background-color: #FFFDD0;
+	border-color: black;
+	font-family: Times New Roman;
+}
